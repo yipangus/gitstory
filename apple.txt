@@ -5,3 +5,7 @@
 1983: Launch Apple IIe which was the longest-lived computer in Apple's history. The Lisa computer goes on sale with much fanfare, only to be pulled two years later. Jobs lures John Sculley away from Pepsico Inc. to serve as Apple's CEO. 
 1984: Iconic "1984" Macintosh commercial directed by Ridley Scott airs during the Super Bowl. The Macintosh computer goes on sale. 
 1985: Jobs and Sculley clash, leading to Jobs' resignation. Wozniak also resigns from Apple.
+1991: Apple and IBM Corp. announce an alliance to develop new PC microprocessors and software. Apple unveils portable Macs called PowerBook. 
+1993: Apple introduces the Newton, a hand-held, pen-based computer. The company reports quarterly loss of $188 million in July. Sculley is replaced as CEO by Apple president Michael Spindler. Apple restructures, and Sculley resigns as chairman. At Next, Jobs decides to focus on software instead of whole computers. 
+1994: Apple introduces Power Macintosh computers based on the PowerPC chip it developed with IBM and Motorola. Apple decides to license its operating software and allow other companies to "clone" the Mac, adopting the model championed by Microsoft Corp.
+1995: The first Mac clones go on sale. Microsoft releases Windows 95, which is easier to use than previous versions and is more like the Mac system. Apple struggles with competition, parts shortages and mistakes predicting customer demand.
